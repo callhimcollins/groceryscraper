@@ -1,12 +1,12 @@
 import * as fs from "fs";
 import * as path from "path";
-import { EGrowceryScraper } from "./EGrowceryScraper";
+import { GroceryScraper } from "./GroceryScraper";
 
 const STORE_URL = "https://orderonline.rouses.com/online/21mandeville";
 const OUTPUT_FILE = path.join(process.cwd(), "output.json");
 
 async function main() {
-  const scraper = new EGrowceryScraper(STORE_URL);
+  const scraper = new GroceryScraper(STORE_URL);
 
   try {
     console.log("Configuring scraper...");

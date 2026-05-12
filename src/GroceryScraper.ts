@@ -1,6 +1,6 @@
 import puppeteer, { Browser } from "puppeteer";
 
-export class EGrowceryScraper {
+export class GroceryScraper {
   private storeUrl: string;
   private browser: Browser | null = null;
 
