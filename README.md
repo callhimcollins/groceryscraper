@@ -69,7 +69,7 @@ These are not required and will not count against you if skipped. Only attempt t
 
 ## Submitting
 
-Send us a link to your repo (or a zip of the project folder, including git history) along with a brief note covering:
+Send us a link to your repo along with a brief note covering:
 
 1. How you approached finding the API endpoint
 2. What worked and what didn't
