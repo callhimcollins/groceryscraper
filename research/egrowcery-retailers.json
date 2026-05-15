@@ -1,0 +1,4234 @@
+[
+  {
+    "retailerName": "Cash Saver",
+    "retailerUrl": "https://www.cashsaverstores.com/online/billscashsaver-atkinsar/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/1182/summary",
+    "franchiseId": "1182",
+    "stores": [
+      {
+        "storeName": "Bill's Cash Saver - Atkins, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "72823",
+          "State": "AR",
+          "StreetAddress": "805 N Church St",
+          "Suburb": "Atkins"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bill's Cash Saver - Batesville, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "72501",
+          "State": "AR",
+          "StreetAddress": "1245 E Main St",
+          "Suburb": "Batesville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bill's Cash Saver - Hardy, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "72542",
+          "State": "AR",
+          "StreetAddress": "202 W Main St",
+          "Suburb": "Hardy"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bill's Cash Saver - Hot Springs, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "71901",
+          "State": "AR",
+          "StreetAddress": "800 Malvern Ave",
+          "Suburb": "Hot Springs"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bill's Cash Saver - Marked Tree, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "72365",
+          "State": "AR",
+          "StreetAddress": "206 Hester Parker Dr",
+          "Suburb": "Marked Tree"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bill's Cash Saver - Searcy, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "72143",
+          "State": "AR",
+          "StreetAddress": "600 E Race Ave",
+          "Suburb": "Searcy"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bill's Cost Plus - Jonesboro, AR - 200 East Johnson Avenue",
+        "address": {
+          "Country": "US",
+          "Postcode": "72401",
+          "State": "AR",
+          "StreetAddress": "200 E. Johnson Ave.",
+          "Suburb": "Jonesboro"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bill's Cost Plus - Jonesboro, AR - 3605 East Johnson Avenue",
+        "address": {
+          "Country": "US",
+          "Postcode": "72405",
+          "State": "AR",
+          "StreetAddress": "3605 E. Johnson Ave",
+          "Suburb": "Jonesboro"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bill's Cost Plus - Jonesboro, AR - Stadium Boulevard",
+        "address": {
+          "Country": "US",
+          "Postcode": "72404",
+          "State": "AR",
+          "StreetAddress": "4225 Stadium Blvd Ste A",
+          "Suburb": "Jonesboro"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Monticello, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "71655",
+          "State": "AR",
+          "StreetAddress": "345 S Main",
+          "Suburb": "Monticello"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Stuttgart, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "72160",
+          "State": "AR",
+          "StreetAddress": "102 E 22nd St",
+          "Suburb": "Stuttgart"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Tupelo, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "38801",
+          "State": "MS",
+          "StreetAddress": "1704 S Gloster St",
+          "Suburb": "Tupelo"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Belmont Market",
+    "retailerUrl": "https://shop.belmontmarket.com/online/belmontmarket/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/1501/summary",
+    "franchiseId": "1501",
+    "stores": [
+      {
+        "storeName": "Belmont Gift Baskets",
+        "address": {
+          "Country": "US",
+          "Postcode": "02879",
+          "State": "RI",
+          "StreetAddress": "600 Kingstown Road",
+          "Suburb": "Wakefield"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Belmont Market",
+        "address": {
+          "Country": "US",
+          "Postcode": "02879",
+          "State": "RI",
+          "StreetAddress": "600 Kingstown Road",
+          "Suburb": "Wakefield"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Paulbeck's Market",
+    "retailerUrl": "https://shop.paulbecks.com/online/paulbecksmarket/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/143/summary",
+    "franchiseId": "143",
+    "stores": [
+      {
+        "storeName": "Paulbeck's Market",
+        "address": {
+          "Country": "US",
+          "Postcode": "56431",
+          "State": "MN",
+          "StreetAddress": "171 Red Oak Dr",
+          "Suburb": "Aitkin"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Village Fresh Market",
+    "retailerUrl": "https://shop.villagefresh.com/online/villagefreshmarket/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/588/summary",
+    "franchiseId": "588",
+    "stores": [
+      {
+        "storeName": "Village Fresh Market",
+        "address": {
+          "Country": "US",
+          "Postcode": "95380",
+          "State": "CA",
+          "StreetAddress": "2056 E Canal Dr",
+          "Suburb": "Turlock"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Exito Fresh Market",
+    "retailerUrl": "https://shop.exitofreshmarket.com/online/freehold/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/755/summary",
+    "franchiseId": "755",
+    "stores": [
+      {
+        "storeName": "Exito Fresh Market - Freehold",
+        "address": {
+          "Country": "US",
+          "Postcode": "07728",
+          "State": "NJ",
+          "StreetAddress": "25 Broad St",
+          "Suburb": "Freehold"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Exito Fresh Market - Hightstown",
+        "address": {
+          "Country": "US",
+          "Postcode": "08520",
+          "State": "NJ",
+          "StreetAddress": "106 Mercer Street",
+          "Suburb": "Hightstown"
+        },
+        "availabilityMode": "Test"
+      },
+      {
+        "storeName": "Exito Fresh Market - Lakewood",
+        "address": {
+          "Country": "US",
+          "Postcode": "08701",
+          "State": "NJ",
+          "StreetAddress": "128 Clifton Ave",
+          "Suburb": "Lakewood"
+        },
+        "availabilityMode": "Test"
+      },
+      {
+        "storeName": "Exito Fresh Market - Long Branch",
+        "address": {
+          "Country": "US",
+          "Postcode": "07740",
+          "State": "NJ",
+          "StreetAddress": "176 Broadway",
+          "Suburb": "Long Branch"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Weaver Markets",
+    "retailerUrl": "https://shop.weavermarkets.com/online/weavermarkets/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/354/summary",
+    "franchiseId": "354",
+    "stores": [
+      {
+        "storeName": "Weaver Markets",
+        "address": {
+          "Country": "US",
+          "Postcode": "17517",
+          "State": "PA",
+          "StreetAddress": "2610 North Reading Road",
+          "Suburb": "Denver"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Sunset Foods",
+    "retailerUrl": "https://egrocer.sunsetfoods.com/online/northbrook/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/147/summary",
+    "franchiseId": "147",
+    "stores": [
+      {
+        "storeName": "Highland Park",
+        "address": {
+          "Country": "US",
+          "Postcode": "60035",
+          "State": "IL",
+          "StreetAddress": "1812 Green Bay Road",
+          "Suburb": "Highland Park"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Lake Forest",
+        "address": {
+          "Country": "US",
+          "Postcode": "60045",
+          "State": "IL",
+          "StreetAddress": "825 S. Waukegan Road",
+          "Suburb": "Lake Forest"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Libertyville",
+        "address": {
+          "Country": "US",
+          "Postcode": "60048",
+          "State": "IL",
+          "StreetAddress": "1451 Peterson Rd",
+          "Suburb": "Libertyville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Long Grove",
+        "address": {
+          "Country": "US",
+          "Postcode": "60047",
+          "State": "IL",
+          "StreetAddress": "4190 Il Route 83",
+          "Suburb": "Lake Zurich"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Northbrook",
+        "address": {
+          "Country": "US",
+          "Postcode": "60062",
+          "State": "IL",
+          "StreetAddress": "1127 Church Street",
+          "Suburb": "Northbrook"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Sunset Express - Highland Test",
+        "address": {
+          "Country": "US",
+          "Postcode": "60035",
+          "State": "IL",
+          "StreetAddress": "1812 Green Bay Road",
+          "Suburb": "Highland Park"
+        },
+        "availabilityMode": "Test"
+      },
+      {
+        "storeName": "Test Store",
+        "address": {
+          "Country": "US",
+          "Postcode": "60047",
+          "State": "IL",
+          "StreetAddress": "4190 Route 83",
+          "Suburb": "Long Grove"
+        },
+        "availabilityMode": "Test"
+      }
+    ]
+  },
+  {
+    "retailerName": "Windfall Market",
+    "retailerUrl": "https://shop.windfallmarket.com/online/windfallmarket/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/620/summary",
+    "franchiseId": "620",
+    "stores": [
+      {
+        "storeName": "Windfall Market",
+        "address": {
+          "Country": "US",
+          "Postcode": "02540",
+          "State": "MA",
+          "StreetAddress": "77 Scranton Ave",
+          "Suburb": "Falmouth"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Windfall Specialty Market",
+        "address": {
+          "Country": "US",
+          "Postcode": "02540",
+          "State": "MA",
+          "StreetAddress": "77 Scranton Ave",
+          "Suburb": "Falmouth"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Westborn Market",
+    "retailerUrl": "https://shop.westbornmarket.com/online/berkley/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/938/summary",
+    "franchiseId": "938",
+    "stores": [
+      {
+        "storeName": "Berkley",
+        "address": {
+          "Country": "US",
+          "Postcode": "48072",
+          "State": "MI",
+          "StreetAddress": "27659 Woodward Ave",
+          "Suburb": "Berkley"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Dearborn",
+        "address": {
+          "Country": "US",
+          "Postcode": "48124",
+          "State": "MI",
+          "StreetAddress": "21755 Michigan Ave",
+          "Suburb": "Dearborn"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Livonia",
+        "address": {
+          "Country": "US",
+          "Postcode": "48154",
+          "State": "MI",
+          "StreetAddress": "14925 Middlebelt Rd",
+          "Suburb": "Livonia"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Plymouth",
+        "address": {
+          "Country": "US",
+          "Postcode": "48170",
+          "State": "MI",
+          "StreetAddress": "860 Penniman Ave",
+          "Suburb": "Plymouth"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "x Test Recipe Store",
+        "address": {
+          "Country": "US",
+          "Postcode": "48072",
+          "State": "MI",
+          "StreetAddress": "27659 Woodward Ave",
+          "Suburb": "Berkley"
+        },
+        "availabilityMode": "Test"
+      }
+    ]
+  },
+  {
+    "retailerName": "Joe's Produce",
+    "retailerUrl": "https://shop.joesproduce.com/online/joesproducemeatseafoodartofbread/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/343/summary",
+    "franchiseId": "343",
+    "stores": [
+      {
+        "storeName": "Joe's on the Go",
+        "address": {
+          "Country": "US",
+          "Postcode": "48152",
+          "State": "MI",
+          "StreetAddress": "33152 W Seven Mile Rd",
+          "Suburb": "Livonia"
+        },
+        "availabilityMode": "FriendsAndFamily"
+      },
+      {
+        "storeName": "Joe's Produce, Meat & Seafood, & Art of Bread",
+        "address": {
+          "Country": "US",
+          "Postcode": "48152",
+          "State": "MI",
+          "StreetAddress": "33152 W Seven Mile Rd",
+          "Suburb": "Livonia"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Joe's Seasonal Specials",
+        "address": {
+          "Country": "US",
+          "Postcode": "48152",
+          "State": "MI",
+          "StreetAddress": "33152 W Seven Mile Rd",
+          "Suburb": "Livonia"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Special Occasions by Joe's; Party Trays, Cakes, Kitchen, ect.",
+        "address": {
+          "Country": "US",
+          "Postcode": "48152",
+          "State": "MI",
+          "StreetAddress": "33152 W Seven Mile Rd",
+          "Suburb": "Livonia"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Harvest Market",
+    "retailerUrl": "https://shop.hmgrocerant.com/online/woodforest710313/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/596/summary",
+    "franchiseId": "596",
+    "stores": [
+      {
+        "storeName": "Shipping",
+        "address": {
+          "Country": "US",
+          "Postcode": "77459",
+          "State": "TX",
+          "StreetAddress": "4603 Sienna Pkwy",
+          "Suburb": "Missouri City"
+        },
+        "availabilityMode": "FriendsAndFamily"
+      },
+      {
+        "storeName": "Woodforest #710313",
+        "address": {
+          "Country": "US",
+          "Postcode": "77316",
+          "State": "TX",
+          "StreetAddress": "2295 Woodforest Pkwy N",
+          "Suburb": "Montgomery"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "X- Sienna #710311",
+        "address": {
+          "Country": "US",
+          "Postcode": "77459",
+          "State": "TX",
+          "StreetAddress": "4603 Sienna Pkwy",
+          "Suburb": "Missouri City"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Steve's Market and Deli",
+    "retailerUrl": "https://shop4u.stevesmarkets.com/online/stevesmarketanddeli-urbana/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/450/summary",
+    "franchiseId": "450",
+    "stores": [
+      {
+        "storeName": "Steve's Market and Deli - Urbana",
+        "address": {
+          "Country": "US",
+          "Postcode": "43078",
+          "State": "OH",
+          "StreetAddress": "324 North Main St",
+          "Suburb": "Urbana"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Test F&F -Degraff",
+        "address": {
+          "Country": "US",
+          "Postcode": "43318",
+          "State": "OH",
+          "StreetAddress": "300 Cretcher St",
+          "Suburb": "Degraff"
+        },
+        "availabilityMode": "FriendsAndFamily"
+      },
+      {
+        "storeName": "X Steve's Market and Deli - North Lewisburg",
+        "address": {
+          "Country": "US",
+          "Postcode": "43060",
+          "State": "OH",
+          "StreetAddress": "184 East Maple St",
+          "Suburb": "North Lewisburg"
+        },
+        "availabilityMode": "FriendsAndFamily"
+      }
+    ]
+  },
+  {
+    "retailerName": "New Brighton Foodland",
+    "retailerUrl": "https://shop.grocerystorenewbrighton.com/online/newbrighton/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/297/summary",
+    "franchiseId": "297",
+    "stores": [
+      {
+        "storeName": "New Brighton",
+        "address": {
+          "Country": "US",
+          "Postcode": "15066",
+          "State": "PA",
+          "StreetAddress": "415 9th St",
+          "Suburb": "New Brighton"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Johnny Pomodoro's",
+    "retailerUrl": "https://jponline.johnnypomodoros.com/online/johnnypomodoros/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/231/summary",
+    "franchiseId": "231",
+    "stores": [
+      {
+        "storeName": "Johnny Pomodoro's",
+        "address": {
+          "Country": "US",
+          "Postcode": "48334",
+          "State": "MI",
+          "StreetAddress": "32906 Middlebelt Road",
+          "Suburb": "Farmington Hills"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Freshmart PR",
+    "retailerUrl": "https://online.freshmartpr.com/online/freshmartcarolina/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/780/summary",
+    "franchiseId": "780",
+    "stores": [
+      {
+        "storeName": "Freshmart Aguadilla",
+        "address": {
+          "Country": "US",
+          "Postcode": "00603",
+          "State": "PR",
+          "StreetAddress": "CARR 2 KM 129.5 PLAZA VICTORIA MALL",
+          "Suburb": "Aguadilla Pueblo"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Freshmart Carolina",
+        "address": {
+          "Country": "US",
+          "Postcode": "00987",
+          "State": "PR",
+          "StreetAddress": "Carolina Commercial Park PR-887",
+          "Suburb": "Carolina"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Freshmart Hato Rey",
+        "address": {
+          "Country": "US",
+          "Postcode": "00918",
+          "State": "PR",
+          "StreetAddress": "201 Calle Juan Kala",
+          "Suburb": "San Juan"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Freshmart Meal Plans",
+        "address": {
+          "Country": "US",
+          "Postcode": "00987",
+          "State": "PR",
+          "StreetAddress": "Carolina Commercial Park PR-887",
+          "Suburb": "Carolina"
+        },
+        "availabilityMode": "Test"
+      },
+      {
+        "storeName": "Freshmart Plazoleta 169",
+        "address": {
+          "Country": "US",
+          "Postcode": "00969",
+          "State": "PR",
+          "StreetAddress": "Plazoleta 169 Carr #169 km 4.5 Barrio Frailes",
+          "Suburb": "Guaynabo"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Jim's SuperValu",
+    "retailerUrl": "https://shop.jimssupervalu.com/online/jimssupervalu/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/1020/summary",
+    "franchiseId": "1020",
+    "stores": [
+      {
+        "storeName": "Jim's SuperValu",
+        "address": {
+          "Country": "US",
+          "Postcode": "58270",
+          "State": "ND",
+          "StreetAddress": "103 3rd St W",
+          "Suburb": "Park River"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Maurer's Market",
+    "retailerUrl": "https://maurersonthemove.maurersmarket.com/online/dells/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/90/summary",
+    "franchiseId": "90",
+    "stores": [
+      {
+        "storeName": "Dells",
+        "address": {
+          "Country": "US",
+          "Postcode": "53965",
+          "State": "WI",
+          "StreetAddress": "216 Washington Ave",
+          "Suburb": "Wisconsin Dells"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Janesville",
+        "address": {
+          "Country": "US",
+          "Postcode": "53545",
+          "State": "WI",
+          "StreetAddress": "2822 E Milwaukee St",
+          "Suburb": "Janesville"
+        },
+        "availabilityMode": "Inactive"
+      }
+    ]
+  },
+  {
+    "retailerName": "Wade's Piggly Wiggly",
+    "retailerUrl": "https://online.shoppigglywiggly.com/online/pigglywigglydecatur/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/813/summary",
+    "franchiseId": "813",
+    "stores": [
+      {
+        "storeName": "Piggly Wiggly Charleston",
+        "address": {
+          "Country": "US",
+          "Postcode": "37310",
+          "State": "TN",
+          "StreetAddress": "8541 Hiwassee Street",
+          "Suburb": "Charleston"
+        },
+        "availabilityMode": "Test"
+      },
+      {
+        "storeName": "Piggly Wiggly Decatur",
+        "address": {
+          "Country": "US",
+          "Postcode": "37322",
+          "State": "TN",
+          "StreetAddress": "17619 State HWY 58 N",
+          "Suburb": "Decatur"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly Pikeville",
+        "address": {
+          "Country": "US",
+          "Postcode": "37367",
+          "State": "TN",
+          "StreetAddress": "3508 Main St",
+          "Suburb": "Pikeville"
+        },
+        "availabilityMode": "Test"
+      },
+      {
+        "storeName": "X Piggly Wiggly Etowah",
+        "address": {
+          "Country": "US",
+          "Postcode": "37331",
+          "State": "TN",
+          "StreetAddress": "740 N. Tennessee Avenue",
+          "Suburb": "Etowah"
+        },
+        "availabilityMode": "FriendsAndFamily"
+      }
+    ]
+  },
+  {
+    "retailerName": "Lamb's Fresh Market",
+    "retailerUrl": "https://shop.lambsfreshmarket.com/online/lambsfreshmarket-wausau/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/196/summary",
+    "franchiseId": "196",
+    "stores": [
+      {
+        "storeName": "Lamb's Fresh Catering - Rib Mountain",
+        "address": {
+          "Country": "US",
+          "Postcode": "54401",
+          "State": "WI",
+          "StreetAddress": "227250 Rib Mountain Dr",
+          "Suburb": "Wausau"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Lamb's Fresh Catering - Wausau",
+        "address": {
+          "Country": "US",
+          "Postcode": "54403",
+          "State": "WI",
+          "StreetAddress": "730 E Wausau Ave",
+          "Suburb": "Wausau"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Lamb's Fresh Market - Rib Mountain",
+        "address": {
+          "Country": "US",
+          "Postcode": "54401",
+          "State": "WI",
+          "StreetAddress": "227250 Rib Mountain Drive",
+          "Suburb": "Wausau"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Lamb's Fresh Market - Wausau",
+        "address": {
+          "Country": "US",
+          "Postcode": "54403",
+          "State": "WI",
+          "StreetAddress": "730 E Wausau Ave",
+          "Suburb": "Wausau"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Fresh Foods Marketplace",
+    "retailerUrl": "https://shop.freshfoodsmarketplace.com/online/pacificbeach/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/186/summary",
+    "franchiseId": "186",
+    "stores": [
+      {
+        "storeName": "Fresh Foods Cannon Beach",
+        "address": {
+          "Country": "US",
+          "Postcode": "97110",
+          "State": "OR",
+          "StreetAddress": "3401 S Hemlock St",
+          "Suburb": "Cannon Beach"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Fresh Foods Manzanita",
+        "address": {
+          "Country": "US",
+          "Postcode": "97130",
+          "State": "OR",
+          "StreetAddress": "730 Manzanita Avenue",
+          "Suburb": "Manzanita"
+        },
+        "availabilityMode": "Inactive"
+      },
+      {
+        "storeName": "Fresh Foods Pacific Beach",
+        "address": {
+          "Country": "US",
+          "Postcode": "98571",
+          "State": "WA",
+          "StreetAddress": "224 Market St",
+          "Suburb": "Pacific Beach"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Market Basket",
+    "retailerUrl": "https://mb2go.marketbasketfoods.com/online/lakecharlesmarketbasketlakest/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/227/summary",
+    "franchiseId": "227",
+    "stores": [
+      {
+        "storeName": "Beaumont Market Basket (Highway 105)",
+        "address": {
+          "Country": "US",
+          "Postcode": "77708",
+          "State": "TX",
+          "StreetAddress": "5960 Highway 105",
+          "Suburb": "Beaumont"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Beaumont Market Basket (Phelan & 23rd)",
+        "address": {
+          "Country": "US",
+          "Postcode": "77707",
+          "State": "TX",
+          "StreetAddress": "3955 Phelan Blvd",
+          "Suburb": "Beaumont"
+        },
+        "availabilityMode": "Inactive"
+      },
+      {
+        "storeName": "Beaumont Market Basket (Phelan & Major)",
+        "address": {
+          "Country": "US",
+          "Postcode": "77706",
+          "State": "TX",
+          "StreetAddress": "8350 Phelan Blvd",
+          "Suburb": "Beaumont"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bridge City Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "77611",
+          "State": "TX",
+          "StreetAddress": "2005 Texas Ave",
+          "Suburb": "Bridge City"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bruce's Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "77619",
+          "State": "TX",
+          "StreetAddress": "6001 39th St",
+          "Suburb": "Groves"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Iowa Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "70647",
+          "State": "LA",
+          "StreetAddress": "112 N Thompson",
+          "Suburb": "Iowa"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Kinder Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "70648",
+          "State": "LA",
+          "StreetAddress": "707 1st Ave",
+          "Suburb": "Kinder"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Lake Charles Market Basket (Lake St)",
+        "address": {
+          "Country": "US",
+          "Postcode": "70605",
+          "State": "LA",
+          "StreetAddress": "4950 Lake St",
+          "Suburb": "Lake Charles"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Lake Charles Market Basket (Nelson Rd)",
+        "address": {
+          "Country": "US",
+          "Postcode": "70605",
+          "State": "LA",
+          "StreetAddress": "4431 Nelson Rd",
+          "Suburb": "Lake Charles"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Lake Charles Market Basket (Ryan St)",
+        "address": {
+          "Country": "US",
+          "Postcode": "70601",
+          "State": "LA",
+          "StreetAddress": "2380 Ryan St",
+          "Suburb": "Lake Charles"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Leesville Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "71446",
+          "State": "LA",
+          "StreetAddress": "1404 N 6th St",
+          "Suburb": "Leesville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Marine and Industrial Services - Market Basket Bridge City, TX",
+        "address": {
+          "Country": "US",
+          "Postcode": "77611",
+          "State": "TX",
+          "StreetAddress": "2005 Texas Ave",
+          "Suburb": "Bridge City"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Marine and Industrial Services - Market Basket Groves, TX",
+        "address": {
+          "Country": "US",
+          "Postcode": "77619",
+          "State": "TX",
+          "StreetAddress": "6001 39th St",
+          "Suburb": "Groves"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Marine and Industrial Services - Market Basket Port Neches, TX",
+        "address": {
+          "Country": "US",
+          "Postcode": "77651",
+          "State": "TX",
+          "StreetAddress": "864 Magnolia",
+          "Suburb": "Port Neches"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Marine and Industrial Services - Market Basket Sulphur, LA",
+        "address": {
+          "Country": "US",
+          "Postcode": "70663",
+          "State": "LA",
+          "StreetAddress": "2227 Maplewood Dr",
+          "Suburb": "Sulphur"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mauriceville Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "77632",
+          "State": "TX",
+          "StreetAddress": "11816 HWY 62 N",
+          "Suburb": "Mauriceville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Moss Bluff Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "70611",
+          "State": "LA",
+          "StreetAddress": "362 Sam Houston Jones",
+          "Suburb": "Moss Bluff"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Nederland Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "77627",
+          "State": "TX",
+          "StreetAddress": "212 27th St",
+          "Suburb": "Nederland"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Orange Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "77632",
+          "State": "TX",
+          "StreetAddress": "3709 N 16th St",
+          "Suburb": "Orange"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Port Neches Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "77651",
+          "State": "TX",
+          "StreetAddress": "864 Magnolia",
+          "Suburb": "Port Neches"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Sulphur Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "70663",
+          "State": "LA",
+          "StreetAddress": "2227 Maplewood Dr",
+          "Suburb": "Sulphur"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Vidor Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "77662",
+          "State": "TX",
+          "StreetAddress": "800 N Main St",
+          "Suburb": "Vidor"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Vinton Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "70668",
+          "State": "LA",
+          "StreetAddress": "1717 Hwy 90 W",
+          "Suburb": "Vinton"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Westlake Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "70669",
+          "State": "LA",
+          "StreetAddress": "2013 Sampson St",
+          "Suburb": "Westlake"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Winnie Market Basket",
+        "address": {
+          "Country": "US",
+          "Postcode": "77665",
+          "State": "TX",
+          "StreetAddress": "1328 HWY 124",
+          "Suburb": "Winnie"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "x Test Store",
+        "address": {
+          "Country": "US",
+          "Postcode": "77627",
+          "State": "TX",
+          "StreetAddress": "212 27th St",
+          "Suburb": "Nederland"
+        },
+        "availabilityMode": "Test"
+      }
+    ]
+  },
+  {
+    "retailerName": "Food Depot",
+    "retailerUrl": "https://shop.fooddepot.com/online/fooddepot59villarica/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/406/summary",
+    "franchiseId": "406",
+    "stores": [
+      {
+        "storeName": "Food Depot 15 FT Valley",
+        "address": {
+          "Country": "US",
+          "Postcode": "31030",
+          "State": "GA",
+          "StreetAddress": "2301 US Highway 341",
+          "Suburb": "Fort Valley"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 1 Stockbridge",
+        "address": {
+          "Country": "US",
+          "Postcode": "30281",
+          "State": "GA",
+          "StreetAddress": "4709 N Henry Blvd",
+          "Suburb": "Stockbridge"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 24 McDonough",
+        "address": {
+          "Country": "US",
+          "Postcode": "30253",
+          "State": "GA",
+          "StreetAddress": "560 Macon St",
+          "Suburb": "McDonough"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 25 Windy Hill",
+        "address": {
+          "Country": "US",
+          "Postcode": "30060",
+          "State": "GA",
+          "StreetAddress": "250 Windy Hill Rd SE, Ste 600",
+          "Suburb": "Marietta"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 26 Mableton",
+        "address": {
+          "Country": "US",
+          "Postcode": "30126",
+          "State": "GA",
+          "StreetAddress": "5345 Floyd Rd SW",
+          "Suburb": "Mableton"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 27 Marietta",
+        "address": {
+          "Country": "US",
+          "Postcode": "30060",
+          "State": "GA",
+          "StreetAddress": "681 S Marietta Pkwy SE",
+          "Suburb": "Marietta"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 29 Forest Park",
+        "address": {
+          "Country": "US",
+          "Postcode": "30297",
+          "State": "GA",
+          "StreetAddress": "792 Morrow Rd",
+          "Suburb": "Forest Park"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 30 Fairburn",
+        "address": {
+          "Country": "US",
+          "Postcode": "30213",
+          "State": "GA",
+          "StreetAddress": "80 NW Broad St",
+          "Suburb": "Fairburn"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 31 Riverdale",
+        "address": {
+          "Country": "US",
+          "Postcode": "30274",
+          "State": "GA",
+          "StreetAddress": "6642 Highway 85",
+          "Suburb": "Riverdale"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 33 Austell EWC",
+        "address": {
+          "Country": "US",
+          "Postcode": "30106",
+          "State": "GA",
+          "StreetAddress": "1355 E West Connector, Frnt",
+          "Suburb": "Austell"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 34 Griffin",
+        "address": {
+          "Country": "US",
+          "Postcode": "30223",
+          "State": "GA",
+          "StreetAddress": "1201 W Taylor St",
+          "Suburb": "Griffin"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 35 Smyrna",
+        "address": {
+          "Country": "US",
+          "Postcode": "30080",
+          "State": "GA",
+          "StreetAddress": "3205 S Cobb Dr SE",
+          "Suburb": "Smyrna"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 36 Carrollton",
+        "address": {
+          "Country": "US",
+          "Postcode": "30117",
+          "State": "GA",
+          "StreetAddress": "1004 Bankhead Hwy",
+          "Suburb": "Carrollton"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 37 Newnan",
+        "address": {
+          "Country": "US",
+          "Postcode": "30263",
+          "State": "GA",
+          "StreetAddress": "120 Bullsboro Dr",
+          "Suburb": "Newnan"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 38 Fayetteville",
+        "address": {
+          "Country": "US",
+          "Postcode": "30214",
+          "State": "GA",
+          "StreetAddress": "200 Banks Station Road",
+          "Suburb": "Fayettesville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 39 Acworth",
+        "address": {
+          "Country": "US",
+          "Postcode": "30102",
+          "State": "GA",
+          "StreetAddress": "5530 Bells Ferry Rd",
+          "Suburb": "Acworth"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 40 Douglasville Hwy 5",
+        "address": {
+          "Country": "US",
+          "Postcode": "30135",
+          "State": "GA",
+          "StreetAddress": "3696 Highway 5",
+          "Suburb": "Douglasville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 42 Bankhead Highway",
+        "address": {
+          "Country": "US",
+          "Postcode": "30168",
+          "State": "GA",
+          "StreetAddress": "10155 Veterans Memorial Hwy SW",
+          "Suburb": "Austell"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 43 Conyers",
+        "address": {
+          "Country": "US",
+          "Postcode": "30013",
+          "State": "GA",
+          "StreetAddress": "2300 Salem Rd SE",
+          "Suburb": "Conyers"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 44 Covington",
+        "address": {
+          "Country": "US",
+          "Postcode": "30014",
+          "State": "GA",
+          "StreetAddress": "6169 Highway 278 NW",
+          "Suburb": "Covington"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 45 Kellytown",
+        "address": {
+          "Country": "US",
+          "Postcode": "30281",
+          "State": "GA",
+          "StreetAddress": "2600 Highway 138 E",
+          "Suburb": "Stockbridge"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 46 Rex",
+        "address": {
+          "Country": "US",
+          "Postcode": "30273",
+          "State": "GA",
+          "StreetAddress": "6459 Highway 42",
+          "Suburb": "Rex"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 47 Stone Mountain",
+        "address": {
+          "Country": "US",
+          "Postcode": "30087",
+          "State": "GA",
+          "StreetAddress": "5723 Rockbridge Rd",
+          "Suburb": "Stone Mountain"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 48 Warner Robins",
+        "address": {
+          "Country": "US",
+          "Postcode": "31093",
+          "State": "GA",
+          "StreetAddress": "2203 Watson Blvd",
+          "Suburb": "Warner Robins"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 49 Lagrange",
+        "address": {
+          "Country": "US",
+          "Postcode": "30241",
+          "State": "GA",
+          "StreetAddress": "908 Hogansville Rd",
+          "Suburb": "Lagrange"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 50 Dublin",
+        "address": {
+          "Country": "US",
+          "Postcode": "31021",
+          "State": "GA",
+          "StreetAddress": "2103 Veterans Blvd",
+          "Suburb": "Dublin"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 51 Dallas",
+        "address": {
+          "Country": "US",
+          "Postcode": "30157",
+          "State": "GA",
+          "StreetAddress": "2985 Villa Rica Hwy, Ste G",
+          "Suburb": "Dallas"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 52 Douglasville",
+        "address": {
+          "Country": "US",
+          "Postcode": "30134",
+          "State": "GA",
+          "StreetAddress": "6525 Hiram Douglasville Hwy",
+          "Suburb": "Douglasville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 53 Carrollton",
+        "address": {
+          "Country": "US",
+          "Postcode": "30117",
+          "State": "GA",
+          "StreetAddress": "180 Maple Xing",
+          "Suburb": "Carrollton"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 54 Lithonia",
+        "address": {
+          "Country": "US",
+          "Postcode": "30038",
+          "State": "GA",
+          "StreetAddress": "3590 Panola Rd",
+          "Suburb": "Stonecrest"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 55 Norcross",
+        "address": {
+          "Country": "US",
+          "Postcode": "30093",
+          "State": "GA",
+          "StreetAddress": "1250 Tech Dr",
+          "Suburb": "Norcross"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 56 Macon",
+        "address": {
+          "Country": "US",
+          "Postcode": "31210",
+          "State": "GA",
+          "StreetAddress": "4015 Northside Dr",
+          "Suburb": "Macon"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 57 Griffin",
+        "address": {
+          "Country": "US",
+          "Postcode": "30224",
+          "State": "GA",
+          "StreetAddress": "816 S Hill St",
+          "Suburb": "Griffin"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 58 Milledgeville",
+        "address": {
+          "Country": "US",
+          "Postcode": "31061",
+          "State": "GA",
+          "StreetAddress": "1850 N Columbia St",
+          "Suburb": "Milledgeville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 59 Villa Rica",
+        "address": {
+          "Country": "US",
+          "Postcode": "30180",
+          "State": "GA",
+          "StreetAddress": "664 W Bankhead Hwy",
+          "Suburb": "Villa Rica"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 60 Columbus",
+        "address": {
+          "Country": "US",
+          "Postcode": "31907",
+          "State": "GA",
+          "StreetAddress": "5600 Milgen Rd",
+          "Suburb": "Columbus"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 61 Stone Mtn.",
+        "address": {
+          "Country": "US",
+          "Postcode": "30083",
+          "State": "GA",
+          "StreetAddress": "4100 Redan Rd",
+          "Suburb": "Stone Mountain"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 62 Hampton",
+        "address": {
+          "Country": "US",
+          "Postcode": "30228",
+          "State": "GA",
+          "StreetAddress": "11155 Tara Blvd",
+          "Suburb": "Hampton"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 63 Macon",
+        "address": {
+          "Country": "US",
+          "Postcode": "31216",
+          "State": "GA",
+          "StreetAddress": "5615 Houston Rd",
+          "Suburb": "Macon"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 64 Conyers",
+        "address": {
+          "Country": "US",
+          "Postcode": "30013",
+          "State": "GA",
+          "StreetAddress": "3530 Highway 20 SE",
+          "Suburb": "Conyers"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot 66 Decatur",
+        "address": {
+          "Country": "US",
+          "Postcode": "30035",
+          "State": "GA",
+          "StreetAddress": "2440 Wesley Chapel Rd",
+          "Suburb": "Decatur"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Food Depot TEST",
+        "address": {
+          "Country": "US",
+          "Postcode": "30135",
+          "State": "GA",
+          "StreetAddress": "3696 Highway 5",
+          "Suburb": "Douglasville"
+        },
+        "availabilityMode": "Test"
+      }
+    ]
+  },
+  {
+    "retailerName": "Blitz's Market",
+    "retailerUrl": "https://store.blitzsmarket.com/online/seaislecity/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/216/summary",
+    "franchiseId": "216",
+    "stores": [
+      {
+        "storeName": "Sea Isle City",
+        "address": {
+          "Country": "US",
+          "Postcode": "08243",
+          "State": "NJ",
+          "StreetAddress": "8515 Landis Avenue",
+          "Suburb": "Sea Isle City"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Price Less IGA",
+    "retailerUrl": "https://www.pricelessiga.com/online/athenstn/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/1042/summary",
+    "franchiseId": "1042",
+    "stores": [
+      {
+        "storeName": "Athens, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37303",
+          "State": "TN",
+          "StreetAddress": "1312 Decatur Pike",
+          "Suburb": "Athens"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bedford, IN",
+        "address": {
+          "Country": "US",
+          "Postcode": "47421",
+          "State": "IN",
+          "StreetAddress": "510 N Street",
+          "Suburb": "Bedford"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Benton, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42025",
+          "State": "KY",
+          "StreetAddress": "2602 Main Street",
+          "Suburb": "Benton"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bowling Green, KY - Louisville Road",
+        "address": {
+          "Country": "US",
+          "Postcode": "42101",
+          "State": "KY",
+          "StreetAddress": "3170 Louisville Rd",
+          "Suburb": "Bowling Green"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bowling Green, KY - Russellville Road",
+        "address": {
+          "Country": "US",
+          "Postcode": "42101",
+          "State": "KY",
+          "StreetAddress": "1901 Russellville Road",
+          "Suburb": "Bowling Green"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Campbellsville, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42276",
+          "State": "KY",
+          "StreetAddress": "300 Campbellsville Bypass",
+          "Suburb": "Campbellsville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Clarksville, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37042",
+          "State": "TN",
+          "StreetAddress": "1151 Fort Campbell Blvd",
+          "Suburb": "Clarksville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Columbia, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42728",
+          "State": "KY",
+          "StreetAddress": "900 Jamestown St",
+          "Suburb": "Columbia"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Crossville, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "38555",
+          "State": "TN",
+          "StreetAddress": "75 Genesis Square",
+          "Suburb": "Crossville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Decatur, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35601",
+          "State": "AL",
+          "StreetAddress": "1820 6th Ave, Ste T",
+          "Suburb": "Decatur"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Elizabethtown, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42701",
+          "State": "KY",
+          "StreetAddress": "200 Sycamore Street, Ste 100",
+          "Suburb": "Elizabethtown"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Erwin, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37650",
+          "State": "TN",
+          "StreetAddress": "1609 Jackson Love Hwy",
+          "Suburb": "Erwin"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Flora, IL",
+        "address": {
+          "Country": "US",
+          "Postcode": "62839",
+          "State": "IL",
+          "StreetAddress": "807 E North Ave",
+          "Suburb": "Flora"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Florence, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35630",
+          "State": "AL",
+          "StreetAddress": "1421 North Wood Ave #1500",
+          "Suburb": "Florence"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Fort Payne, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35967",
+          "State": "AL",
+          "StreetAddress": "2000A Gault Ave. North",
+          "Suburb": "Ft. Payne"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Franklin, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42134",
+          "State": "KY",
+          "StreetAddress": "1350 Harding Rd",
+          "Suburb": "Franklin"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Jefferson City, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37760",
+          "State": "TN",
+          "StreetAddress": "272 E Broadway Blvd",
+          "Suburb": "Jefferson City"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Johnson City, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37601",
+          "State": "TN",
+          "StreetAddress": "1950 S Roan St",
+          "Suburb": "Johnson City"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Kingsport, TN - North John B. Dennis",
+        "address": {
+          "Country": "US",
+          "Postcode": "37660",
+          "State": "TN",
+          "StreetAddress": "3006 N John B Dennis Hwy",
+          "Suburb": "Kingsport"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Kingsport, TN - South John B. Dennis",
+        "address": {
+          "Country": "US",
+          "Postcode": "37660",
+          "State": "TN",
+          "StreetAddress": "1328 S John B Dennis Hwy",
+          "Suburb": "Kingsport"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Kingsport, TN - West Stone Drive",
+        "address": {
+          "Country": "US",
+          "Postcode": "37660",
+          "State": "TN",
+          "StreetAddress": "4320 W Stone Dr # A",
+          "Suburb": "Kingsport"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Lewisburg, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37091",
+          "State": "TN",
+          "StreetAddress": "1770 Mooresville Highway",
+          "Suburb": "Lewisburg"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Louisville, KY - Beulah Church Road",
+        "address": {
+          "Country": "US",
+          "Postcode": "40228",
+          "State": "KY",
+          "StreetAddress": "7813 Beulah Church Road, Unit 121",
+          "Suburb": "Louisville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Louisville, KY - Dixie Highway",
+        "address": {
+          "Country": "US",
+          "Postcode": "40272",
+          "State": "KY",
+          "StreetAddress": "10986 Dixie Hwy",
+          "Suburb": "Louisville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Louisville, KY - Market Place Drive",
+        "address": {
+          "Country": "US",
+          "Postcode": "40229",
+          "State": "KY",
+          "StreetAddress": "175 Market Place Dr",
+          "Suburb": "Louisville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Morristown, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37814",
+          "State": "TN",
+          "StreetAddress": "1707 E Andrew Johnson Hwy",
+          "Suburb": "Morristown"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mountain City, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37683",
+          "State": "TN",
+          "StreetAddress": "220 Pioneer Village",
+          "Suburb": "Mountain City"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mt. Vernon, IN",
+        "address": {
+          "Country": "US",
+          "Postcode": "47620",
+          "State": "IN",
+          "StreetAddress": "440 Southwind Plz",
+          "Suburb": "Mt. Vernon"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Newport, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37821",
+          "State": "TN",
+          "StreetAddress": "208 W Broadway",
+          "Suburb": "Newport"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Oak Ridge, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37830",
+          "State": "TN",
+          "StreetAddress": "691 Emory Valley Rd",
+          "Suburb": "Oak Ridge"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Oneonta, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35121",
+          "State": "AL",
+          "StreetAddress": "929 Second Ave. East",
+          "Suburb": "Oneonta"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Owensboro, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42301",
+          "State": "KY",
+          "StreetAddress": "1731 Scherm Rd",
+          "Suburb": "Owensboro"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Price Less Main",
+        "address": {
+          "Country": "US",
+          "Postcode": "35630",
+          "State": "AL",
+          "StreetAddress": "1421 North Wood Ave #1500",
+          "Suburb": "Florence"
+        },
+        "availabilityMode": "Test"
+      },
+      {
+        "storeName": "Radcliff, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "40160",
+          "State": "KY",
+          "StreetAddress": "262 Millcreek Rd",
+          "Suburb": "Radcliff"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Russell Springs, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42642",
+          "State": "KY",
+          "StreetAddress": "2453 Lakeway Drive",
+          "Suburb": "Russell Springs"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Russellville, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35653",
+          "State": "AL",
+          "StreetAddress": "14001 Hwy 43",
+          "Suburb": "Russellville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Russellville, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42276",
+          "State": "KY",
+          "StreetAddress": "113 Armory Drive",
+          "Suburb": "Russellville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Shepherdsville, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "40165",
+          "State": "KY",
+          "StreetAddress": "445 Shepherdsville Square",
+          "Suburb": "Shepherdsville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Strawberry Plains, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37871",
+          "State": "TN",
+          "StreetAddress": "522 Andrew Johnson Hwy",
+          "Suburb": "Strawberry Plains"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Tompkinsville, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42167",
+          "State": "KY",
+          "StreetAddress": "704 N Main St",
+          "Suburb": "Tompkinsville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Weber City, VA",
+        "address": {
+          "Country": "US",
+          "Postcode": "24290",
+          "State": "VA",
+          "StreetAddress": "969 US Highway 23 South",
+          "Suburb": "Weber City"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Westmoreland, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37186",
+          "State": "TN",
+          "StreetAddress": "5716 Austin Peay Highway",
+          "Suburb": "Westmoreland"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Whitesburg, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "41858",
+          "State": "KY",
+          "StreetAddress": "34 Whitesburg Plz",
+          "Suburb": "Whitesburg"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "X Bristol, VA",
+        "address": {
+          "Country": "US",
+          "Postcode": "24201",
+          "State": "VA",
+          "StreetAddress": "260 Plaza Crsg",
+          "Suburb": "Bristol"
+        },
+        "availabilityMode": "FriendsAndFamily"
+      },
+      {
+        "storeName": "X Coeburn, VA",
+        "address": {
+          "Country": "US",
+          "Postcode": "24230",
+          "State": "VA",
+          "StreetAddress": "109 Laurel Ave",
+          "Suburb": "Coeburn"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "X Martin, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "38237",
+          "State": "TN",
+          "StreetAddress": "4200 Skyhawk Pkwy",
+          "Suburb": "Martin"
+        },
+        "availabilityMode": "FriendsAndFamily"
+      }
+    ]
+  },
+  {
+    "retailerName": "Hammer & Wikan",
+    "retailerUrl": "https://groceries.hammerwikan.com/online/hammerwikan/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/362/summary",
+    "franchiseId": "362",
+    "stores": [
+      {
+        "storeName": "Hammer & Wikan",
+        "address": {
+          "Country": "US",
+          "Postcode": "99833",
+          "State": "AK",
+          "StreetAddress": "1300 Howkan St",
+          "Suburb": "Petersburg"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Food Giant",
+    "retailerUrl": "https://www.foodgiant.com/online/savemart-mcgeheear/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/1078/summary",
+    "franchiseId": "1078",
+    "stores": [
+      {
+        "storeName": "Abbeville, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36310",
+          "State": "AL",
+          "StreetAddress": "100 W Washington St",
+          "Suburb": "Abbeville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Advance, MO",
+        "address": {
+          "Country": "US",
+          "Postcode": "63730",
+          "State": "MO",
+          "StreetAddress": "33330 State Hwy 25",
+          "Suburb": "Advance"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Biloxi, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "39530",
+          "State": "MS",
+          "StreetAddress": "174 Porter Ave",
+          "Suburb": "Biloxi"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bloomfield, MO",
+        "address": {
+          "Country": "US",
+          "Postcode": "63825",
+          "State": "MO",
+          "StreetAddress": "108 North Hwy 25",
+          "Suburb": "Bloomfield"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Brownsville, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "38012",
+          "State": "TN",
+          "StreetAddress": "352 West Main Street",
+          "Suburb": "Brownsville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Cape Girardeau, MO",
+        "address": {
+          "Country": "US",
+          "Postcode": "63701",
+          "State": "MO",
+          "StreetAddress": "1120 N Kingshighway St",
+          "Suburb": "Cape Girardeau"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Century, FL",
+        "address": {
+          "Country": "US",
+          "Postcode": "32535",
+          "State": "FL",
+          "StreetAddress": "9511 N. Century Blvd",
+          "Suburb": "Century"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Chaffee, MO",
+        "address": {
+          "Country": "US",
+          "Postcode": "63740",
+          "State": "MO",
+          "StreetAddress": "11934 State Highway 77",
+          "Suburb": "Chaffee"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Clayton, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36016",
+          "State": "AL",
+          "StreetAddress": "247 Eufaula Ave",
+          "Suburb": "Clayton"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Elba, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36323",
+          "State": "AL",
+          "StreetAddress": "638 N. Claxton Avenue",
+          "Suburb": "Elba"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Gulfport, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "39503",
+          "State": "MS",
+          "StreetAddress": "12057 Highway 49",
+          "Suburb": "Gulfport"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Jackson, TN - Christmasville Cove",
+        "address": {
+          "Country": "US",
+          "Postcode": "38305",
+          "State": "TN",
+          "StreetAddress": "2596 Christmasville Cv",
+          "Suburb": "Jackson"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Jackson, TN - South Highland",
+        "address": {
+          "Country": "US",
+          "Postcode": "38301",
+          "State": "TN",
+          "StreetAddress": "1727 S Highland",
+          "Suburb": "Jackson"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Lexington, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "38351",
+          "State": "TN",
+          "StreetAddress": "128 W Church St",
+          "Suburb": "Lexington"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Linden, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37096",
+          "State": "TN",
+          "StreetAddress": "123 E School Street",
+          "Suburb": "Linden"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mad Butcher - Clarendon, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "72029",
+          "State": "AR",
+          "StreetAddress": "400 Madison Street",
+          "Suburb": "Clarendon"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mad Butcher - Dumas, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "71639",
+          "State": "AR",
+          "StreetAddress": "629 Highway 65 S",
+          "Suburb": "Dumas"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mad Butcher - Fordyce, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "71742",
+          "State": "AR",
+          "StreetAddress": "920 W. 4th",
+          "Suburb": "Fordyce"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mad Butcher - McCrory, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "72101",
+          "State": "AR",
+          "StreetAddress": "901 N Edmonds Ave",
+          "Suburb": "McCrory"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mad Butcher - Warren, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "71671",
+          "State": "AR",
+          "StreetAddress": "315 S Martin St",
+          "Suburb": "Warren"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Market Place - Marion, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "72364",
+          "State": "AR",
+          "StreetAddress": "452 Military Rd",
+          "Suburb": "Marion"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Maxwell's Big Star - Bolivar, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "38008",
+          "State": "TN",
+          "StreetAddress": "200 N Main St",
+          "Suburb": "Bolivar"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Medina, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "38355",
+          "State": "TN",
+          "StreetAddress": "259 Three Oaks Dr",
+          "Suburb": "Medina"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Middleton, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "38052",
+          "State": "TN",
+          "StreetAddress": "121 W. Tennessee Street",
+          "Suburb": "Middleton"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Parsons, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "38363",
+          "State": "TN",
+          "StreetAddress": "535 Tennessee Ave N",
+          "Suburb": "Parsons"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Albertville, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35951",
+          "State": "AL",
+          "StreetAddress": "250 AL Highway 75 N",
+          "Suburb": "Albertville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Bay Springs, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "39422",
+          "State": "MS",
+          "StreetAddress": "Hwy 15 S",
+          "Suburb": "Bay Springs"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Boaz, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35957",
+          "State": "AL",
+          "StreetAddress": "10339 AL Highway 168",
+          "Suburb": "Boaz"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Butler, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36904",
+          "State": "AL",
+          "StreetAddress": "300 W Pushmataha St",
+          "Suburb": "Butler"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Defuniak Springs, FL",
+        "address": {
+          "Country": "US",
+          "Postcode": "32433",
+          "State": "FL",
+          "StreetAddress": "1814 US Highway 90 W",
+          "Suburb": "Defuniak Springs"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Dewitt, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "72042",
+          "State": "AR",
+          "StreetAddress": "102 S Main St",
+          "Suburb": "Dewitt"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Dumas, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "71639",
+          "State": "AR",
+          "StreetAddress": "358 Highway 65 S",
+          "Suburb": "Dumas"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Florala, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36442",
+          "State": "AL",
+          "StreetAddress": "980 2nd St",
+          "Suburb": "Florala"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Geneva, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36340",
+          "State": "AL",
+          "StreetAddress": "1400 W Maple Ave",
+          "Suburb": "Geneva"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Gilbertown, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36908",
+          "State": "AL",
+          "StreetAddress": "116 Melvin Rd",
+          "Suburb": "Gilbertown"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Greenville, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36037",
+          "State": "AL",
+          "StreetAddress": "205 Cedar St",
+          "Suburb": "Greenville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Guntersville, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35976",
+          "State": "AL",
+          "StreetAddress": "1455 Sunset Dr",
+          "Suburb": "Guntersville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Hartford, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36344",
+          "State": "AL",
+          "StreetAddress": "304 W Main St",
+          "Suburb": "Hartford"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Laurel, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "39440",
+          "State": "MS",
+          "StreetAddress": "321 N. 16th St",
+          "Suburb": "Laurel"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Leakesville, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "39451",
+          "State": "MS",
+          "StreetAddress": "816 Main St",
+          "Suburb": "Leakesville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Magee, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "39111",
+          "State": "MS",
+          "StreetAddress": "339 Simpson Highway 149",
+          "Suburb": "Magee"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Monroeville, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36460",
+          "State": "AL",
+          "StreetAddress": "918 S Alabama Ave",
+          "Suburb": "Monroeville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Moss Point, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "39552",
+          "State": "MS",
+          "StreetAddress": "7831 Highway 613",
+          "Suburb": "Moss Point"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Pelham, GA",
+        "address": {
+          "Country": "US",
+          "Postcode": "31779",
+          "State": "GA",
+          "StreetAddress": "303 W Railroad St S",
+          "Suburb": "Pelham"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Scottsboro, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35768",
+          "State": "AL",
+          "StreetAddress": "101 County Park Rd",
+          "Suburb": "Scottsboro"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Star City, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "71667",
+          "State": "AR",
+          "StreetAddress": "1307 N Lincoln Ave",
+          "Suburb": "Star City"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Taylorsville, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "39168",
+          "State": "MS",
+          "StreetAddress": "221 Welcome St",
+          "Suburb": "Taylorsville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Tunica, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "38676",
+          "State": "MS",
+          "StreetAddress": "1084 Highway 61 S",
+          "Suburb": "Tunica"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Tylertown, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "39667",
+          "State": "MS",
+          "StreetAddress": "5044 Plaza Dr",
+          "Suburb": "Tylertown"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Walnut Hill, FL",
+        "address": {
+          "Country": "US",
+          "Postcode": "32568",
+          "State": "FL",
+          "StreetAddress": "11204 Highway 97",
+          "Suburb": "Walnut Hill"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Piggly Wiggly - Wiggins, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "39577",
+          "State": "MS",
+          "StreetAddress": "530 Central Ave W",
+          "Suburb": "Wiggins"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Ripley's Market - Ripley, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "38663",
+          "State": "MS",
+          "StreetAddress": "515 City Ave S",
+          "Suburb": "Ripley"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Save Mart - McGehee, AR",
+        "address": {
+          "Country": "US",
+          "Postcode": "71654",
+          "State": "AR",
+          "StreetAddress": "1009 Highway 65 S",
+          "Suburb": "McGehee"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Sav-Mor - Sulligent, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "33586",
+          "State": "AL",
+          "StreetAddress": "5635 Hwy 278",
+          "Suburb": "Sulligent"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Sav-Mor - Vernon, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35592",
+          "State": "AL",
+          "StreetAddress": "44790 Hwy 17",
+          "Suburb": "Vernon"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Selmer, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "38375",
+          "State": "TN",
+          "StreetAddress": "407 Mulberry",
+          "Suburb": "Selmer"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Sikeston, MO - 2415 East Malone",
+        "address": {
+          "Country": "US",
+          "Postcode": "63801",
+          "State": "MO",
+          "StreetAddress": "2415 E Malone Ave",
+          "Suburb": "Sikeston"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Sikeston, MO - 945 East Malone",
+        "address": {
+          "Country": "US",
+          "Postcode": "63801",
+          "State": "MO",
+          "StreetAddress": "945 E Malone Ave",
+          "Suburb": "Sikeston"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Sikeston, MO - North Main",
+        "address": {
+          "Country": "US",
+          "Postcode": "63801",
+          "State": "MO",
+          "StreetAddress": "700 N Main",
+          "Suburb": "Sikeston"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Slocomb, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36375",
+          "State": "AL",
+          "StreetAddress": "470 W Lawrence Harris Hwy",
+          "Suburb": "Slocomb"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Steele, MO",
+        "address": {
+          "Country": "US",
+          "Postcode": "63877",
+          "State": "MO",
+          "StreetAddress": "117 Main St",
+          "Suburb": "Steele"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "X Big Star - Greenwood, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "38930",
+          "State": "MS",
+          "StreetAddress": "2606 Highway 82 E",
+          "Suburb": "Greenwood"
+        },
+        "availabilityMode": "FriendsAndFamily"
+      },
+      {
+        "storeName": "X Georgiana, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36033",
+          "State": "AL",
+          "StreetAddress": "160 S. Palmer Ave",
+          "Suburb": "Georgiana"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "X Tallahassee, FL",
+        "address": {
+          "Country": "US",
+          "Postcode": "32305",
+          "State": "FL",
+          "StreetAddress": "9019 Woodville Hwy",
+          "Suburb": "Tallahassee"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "ValuMarket",
+    "retailerUrl": "https://www.valumarket.com/online/valumarketiroquoismanor/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/967/summary",
+    "franchiseId": "967",
+    "stores": [
+      {
+        "storeName": "ValuMarket Iroquois Manor",
+        "address": {
+          "Country": "US",
+          "Postcode": "40214",
+          "State": "KY",
+          "StreetAddress": "5301 Mitscher Avenue",
+          "Suburb": "Louisville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "ValuMarket Mid City Mall",
+        "address": {
+          "Country": "US",
+          "Postcode": "40204",
+          "State": "KY",
+          "StreetAddress": "1250 Bardstown Road, STE 1",
+          "Suburb": "Louisville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "ValuMarket Mount Washington",
+        "address": {
+          "Country": "US",
+          "Postcode": "40047",
+          "State": "KY",
+          "StreetAddress": "205 Oakbrooke Drive",
+          "Suburb": "Mount Washington"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "ValuMarket Outer Loop Plaza",
+        "address": {
+          "Country": "US",
+          "Postcode": "40228",
+          "State": "KY",
+          "StreetAddress": "7519 Outer Loop",
+          "Suburb": "Louisville"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Pic-N-Sav",
+    "retailerUrl": "https://www.picnsav.com/online/albanyga/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/1184/summary",
+    "franchiseId": "1184",
+    "stores": [
+      {
+        "storeName": "Albany, GA",
+        "address": {
+          "Country": "US",
+          "Postcode": "31701",
+          "State": "GA",
+          "StreetAddress": "2203 E Oglethorpe Blvd",
+          "Suburb": "Albany"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Andalusia, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36420",
+          "State": "AL",
+          "StreetAddress": "550 W Bypass",
+          "Suburb": "Andalusia"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bainbridge, GA",
+        "address": {
+          "Country": "US",
+          "Postcode": "39819",
+          "State": "GA",
+          "StreetAddress": "1615 E Shotwell St",
+          "Suburb": "Bainbridge"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Brewton, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36426",
+          "State": "AL",
+          "StreetAddress": "2135 Douglas Ave",
+          "Suburb": "Brewton"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Columbia, MS",
+        "address": {
+          "Country": "US",
+          "Postcode": "39429",
+          "State": "MS",
+          "StreetAddress": "1110 Hwy 13 N",
+          "Suburb": "Columbia"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Crestview, FL",
+        "address": {
+          "Country": "US",
+          "Postcode": "32536",
+          "State": "FL",
+          "StreetAddress": "310 W James Lee Blvd",
+          "Suburb": "Crestview"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Evergreen, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "36401",
+          "State": "AL",
+          "StreetAddress": "320 W Front St",
+          "Suburb": "Evergreen"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Medford County Market",
+    "retailerUrl": "https://www.medfordcountymarket.com/online/medfordcountymarket/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/127/summary",
+    "franchiseId": "127",
+    "stores": [
+      {
+        "storeName": "Medford County Market",
+        "address": {
+          "Country": "US",
+          "Postcode": "54451",
+          "State": "WI",
+          "StreetAddress": "160 Medford Plaza",
+          "Suburb": "Medford"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Save More Marketplace",
+    "retailerUrl": "https://www.savemoremarketplace.com/online/savemoremarketplace/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/1389/summary",
+    "franchiseId": "1389",
+    "stores": [
+      {
+        "storeName": "Save More Catering",
+        "address": {
+          "Country": "US",
+          "Postcode": "54548",
+          "State": "WI",
+          "StreetAddress": "8522 US Highway 51 N",
+          "Suburb": "Minocqua"
+        },
+        "availabilityMode": "Test"
+      },
+      {
+        "storeName": "Save More Marketplace",
+        "address": {
+          "Country": "US",
+          "Postcode": "54548",
+          "State": "WI",
+          "StreetAddress": "8522 US Highway 51 N",
+          "Suburb": "Minocqua"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Handy Market",
+    "retailerUrl": "https://www.handymarketburbank.com/online/handymarket/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/1458/summary",
+    "franchiseId": "1458",
+    "stores": [
+      {
+        "storeName": "Handy Market",
+        "address": {
+          "Country": "US",
+          "Postcode": "91505",
+          "State": "CA",
+          "StreetAddress": "2514 West Magnolia Blvd",
+          "Suburb": "Burbank"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Ring Bros. Marketplace",
+    "retailerUrl": "https://doorstepservice.ringbrosmarketplace.com/online/ringbrosmarketplace/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/277/summary",
+    "franchiseId": "277",
+    "stores": [
+      {
+        "storeName": "Ring Bros. Marketplace",
+        "address": {
+          "Country": "US",
+          "Postcode": "02660",
+          "State": "MA",
+          "StreetAddress": "485 Route 134",
+          "Suburb": "South Dennis"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "X Gift Baskets",
+        "address": {
+          "Country": "US",
+          "Postcode": "02660",
+          "State": "MA",
+          "StreetAddress": "485 Route 134",
+          "Suburb": "South Dennis"
+        },
+        "availabilityMode": "FriendsAndFamily"
+      },
+      {
+        "storeName": "X Provisioning Service",
+        "address": {
+          "Country": "US",
+          "Postcode": "02660",
+          "State": "MA",
+          "StreetAddress": "485 Route 134",
+          "Suburb": "South Dennis"
+        },
+        "availabilityMode": "FriendsAndFamily"
+      }
+    ]
+  },
+  {
+    "retailerName": "The Grand Food Center",
+    "retailerUrl": "https://egrocer.grandfoodcenter.com/online/winnetka/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/666/summary",
+    "franchiseId": "666",
+    "stores": [
+      {
+        "storeName": "Glencoe",
+        "address": {
+          "Country": "US",
+          "Postcode": "60022",
+          "State": "IL",
+          "StreetAddress": "341 Hazel Ave",
+          "Suburb": "Glencoe"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Winnetka",
+        "address": {
+          "Country": "US",
+          "Postcode": "60093",
+          "State": "IL",
+          "StreetAddress": "606 Green Bay Rd",
+          "Suburb": "Winnetka"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Dolphin Markets",
+    "retailerUrl": "https://shop.dolphinmarkets.com/online/dolphinmarket/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/763/summary",
+    "franchiseId": "763",
+    "stores": [
+      {
+        "storeName": "Dolphin Market",
+        "address": {
+          "Country": "US",
+          "Postcode": "00830",
+          "State": "VI",
+          "StreetAddress": "Boulon Center 18-25 St. John",
+          "Suburb": "St John"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "AF County Market",
+    "retailerUrl": "https://afsupermarket.com/online/afcountymarket/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/757/summary",
+    "franchiseId": "757",
+    "stores": [
+      {
+        "storeName": "AF County Market",
+        "address": {
+          "Country": "US",
+          "Postcode": "53910",
+          "State": "WI",
+          "StreetAddress": "215 W North St",
+          "Suburb": "Adams"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Guido's Fresh Marketplace",
+    "retailerUrl": "https://catering.guidosfreshmarketplace.com/online/guidosfreshmarketplacegreatbarringtoncatering/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/1045/summary",
+    "franchiseId": "1045",
+    "stores": [
+      {
+        "storeName": "Guido's Fresh Marketplace Great Barrington Catering",
+        "address": {
+          "Country": "US",
+          "Postcode": "01230",
+          "State": "MA",
+          "StreetAddress": "760 South Main St.",
+          "Suburb": "Great Barrington"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Guido's Fresh Marketplace Pittsfield Catering",
+        "address": {
+          "Country": "US",
+          "Postcode": "01201",
+          "State": "MA",
+          "StreetAddress": "1020 South St.",
+          "Suburb": "Pittsfield"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Guido's Great Barrington Grocery",
+        "address": {
+          "Country": "US",
+          "Postcode": "01230",
+          "State": "MA",
+          "StreetAddress": "760 South Main St.",
+          "Suburb": "Great Barrington"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Guido's Great Barrington Holiday Menus",
+        "address": {
+          "Country": "US",
+          "Postcode": "01230",
+          "State": "MA",
+          "StreetAddress": "760 South Main St.",
+          "Suburb": "Great Barrington"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Guido's Pittsfield Grocery",
+        "address": {
+          "Country": "US",
+          "Postcode": "01201",
+          "State": "MA",
+          "StreetAddress": "1020 South St.",
+          "Suburb": "Pittsfield"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Guido's Pittsfield Holiday Menus",
+        "address": {
+          "Country": "US",
+          "Postcode": "01201",
+          "State": "MA",
+          "StreetAddress": "1020 South St.",
+          "Suburb": "Pittsfield"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Wholesome Choice",
+    "retailerUrl": "https://www.wholesomechoice.com/online/wholesomechoice/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/946/summary",
+    "franchiseId": "946",
+    "stores": [
+      {
+        "storeName": "Wholesome Choice",
+        "address": {
+          "Country": "US",
+          "Postcode": "92612",
+          "State": "CA",
+          "StreetAddress": "18040 Culver Dr",
+          "Suburb": "Irvine"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Main Street Market",
+    "retailerUrl": "https://www.mainstmarketspringfield.com/online/mainstreetmarket/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/1455/summary",
+    "franchiseId": "1455",
+    "stores": [
+      {
+        "storeName": "Main Street Market",
+        "address": {
+          "Country": "US",
+          "Postcode": "97477",
+          "State": "OR",
+          "StreetAddress": "330 Main St, Suite A",
+          "Suburb": "Springfield"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Rennoldson's Market",
+    "retailerUrl": "https://shop.rennoldsonsmarket.com/online/rennoldsonsmarket/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/386/summary",
+    "franchiseId": "386",
+    "stores": [
+      {
+        "storeName": "Rennoldson's Market",
+        "address": {
+          "Country": "US",
+          "Postcode": "14512",
+          "State": "NY",
+          "StreetAddress": "136 S Main St",
+          "Suburb": "Naples"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Down to Earth Organic and Natural",
+    "retailerUrl": "https://shop.downtoearth.org/online/pearlridge/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/640/summary",
+    "franchiseId": "640",
+    "stores": [
+      {
+        "storeName": "Honolulu",
+        "address": {
+          "Country": "US",
+          "Postcode": "96826",
+          "State": "HI",
+          "StreetAddress": "2525 S King St",
+          "Suburb": "Honolulu"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Honolulu Foods",
+        "address": {
+          "Country": "US",
+          "Postcode": "96826",
+          "State": "HI",
+          "StreetAddress": "2525 S King St",
+          "Suburb": "Honolulu"
+        },
+        "availabilityMode": "Inactive"
+      },
+      {
+        "storeName": "Kahului",
+        "address": {
+          "Country": "US",
+          "Postcode": "96732",
+          "State": "HI",
+          "StreetAddress": "305 Dairy Rd",
+          "Suburb": "Kahului"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Kahului Foods",
+        "address": {
+          "Country": "US",
+          "Postcode": "96732",
+          "State": "HI",
+          "StreetAddress": "305 Dairy Rd",
+          "Suburb": "Kahului"
+        },
+        "availabilityMode": "Inactive"
+      },
+      {
+        "storeName": "Kailua",
+        "address": {
+          "Country": "US",
+          "Postcode": "96734",
+          "State": "HI",
+          "StreetAddress": "573 Kailua Road",
+          "Suburb": "Kailua"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Kailua Foods",
+        "address": {
+          "Country": "US",
+          "Postcode": "96734",
+          "State": "HI",
+          "StreetAddress": "573 Kailua Road",
+          "Suburb": "Kailua"
+        },
+        "availabilityMode": "Inactive"
+      },
+      {
+        "storeName": "Kaka'ako",
+        "address": {
+          "Country": "US",
+          "Postcode": "96813",
+          "State": "HI",
+          "StreetAddress": "500 Keawe St",
+          "Suburb": "Honolulu"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Kaka'ako Foods",
+        "address": {
+          "Country": "US",
+          "Postcode": "96813",
+          "State": "HI",
+          "StreetAddress": "500 Keawe St",
+          "Suburb": "Honolulu"
+        },
+        "availabilityMode": "Inactive"
+      },
+      {
+        "storeName": "Kapolei",
+        "address": {
+          "Country": "US",
+          "Postcode": "96707",
+          "State": "HI",
+          "StreetAddress": "4460 Kapolei Pkwy #320",
+          "Suburb": "Kapolei"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Kapolei Foods",
+        "address": {
+          "Country": "US",
+          "Postcode": "96707",
+          "State": "HI",
+          "StreetAddress": "4460 Kapolei Pkwy #320",
+          "Suburb": "Kapolei"
+        },
+        "availabilityMode": "Inactive"
+      },
+      {
+        "storeName": "Pearlridge",
+        "address": {
+          "Country": "US",
+          "Postcode": "96701",
+          "State": "HI",
+          "StreetAddress": "98-211 Pali Momi Street",
+          "Suburb": "Aiea"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Pearlridge Foods",
+        "address": {
+          "Country": "US",
+          "Postcode": "96701",
+          "State": "HI",
+          "StreetAddress": "98-211 Pali Momi Street",
+          "Suburb": "Aiea"
+        },
+        "availabilityMode": "Inactive"
+      }
+    ]
+  },
+  {
+    "retailerName": "Mackenthun's Fine Foods",
+    "retailerUrl": "https://shop.mackenthuns.com/online/mackenthunswaconia/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/786/summary",
+    "franchiseId": "786",
+    "stores": [
+      {
+        "storeName": "Gatherings Lonsdale",
+        "address": {
+          "Country": "US",
+          "Postcode": "55046",
+          "State": "MN",
+          "StreetAddress": "750 Ash St NE",
+          "Suburb": "Lonsdale"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Gatherings Minnetrista",
+        "address": {
+          "Country": "US",
+          "Postcode": "55331",
+          "State": "MN",
+          "StreetAddress": "4751 Kings Point Road",
+          "Suburb": "Minnetrista"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Gatherings Waconia",
+        "address": {
+          "Country": "US",
+          "Postcode": "55387",
+          "State": "MN",
+          "StreetAddress": "851 Marketplace Drive",
+          "Suburb": "Waconia"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mackenthun's Lonsdale",
+        "address": {
+          "Country": "US",
+          "Postcode": "55046",
+          "State": "MN",
+          "StreetAddress": "750 Ash St NE",
+          "Suburb": "Lonsdale"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mackenthun's Minnetrista + The Cove Wine & Spirits",
+        "address": {
+          "Country": "US",
+          "Postcode": "55331",
+          "State": "MN",
+          "StreetAddress": "4751 Kings Point Road",
+          "Suburb": "Minnetrista"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mackenthun's Waconia",
+        "address": {
+          "Country": "US",
+          "Postcode": "55387",
+          "State": "MN",
+          "StreetAddress": "851 Marketplace Drive",
+          "Suburb": "Waconia"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Training Site / Waconia",
+        "address": {
+          "Country": "US",
+          "Postcode": "55387",
+          "State": "MN",
+          "StreetAddress": "851 Marketplace Drive",
+          "Suburb": "Waconia"
+        },
+        "availabilityMode": "Test"
+      }
+    ]
+  },
+  {
+    "retailerName": "Metcalfe's Market",
+    "retailerUrl": "https://www.shopmetcalfes.com/online/metcalfeswauwatosa/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/11/summary",
+    "franchiseId": "11",
+    "stores": [
+      {
+        "storeName": "Metcalfe's Hilldale",
+        "address": {
+          "Country": "US",
+          "Postcode": "53705",
+          "State": "WI",
+          "StreetAddress": "726 North Midvale Boulevard",
+          "Suburb": "Madison"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Metcalfe's Hilldale Floral Studio",
+        "address": {
+          "Country": "US",
+          "Postcode": "53705",
+          "State": "WI",
+          "StreetAddress": "726 North Midvale Boulevard",
+          "Suburb": "Madison"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Metcalfe's Wauwatosa",
+        "address": {
+          "Country": "US",
+          "Postcode": "53213",
+          "State": "WI",
+          "StreetAddress": "6700 W State St",
+          "Suburb": "Wauwatosa"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Metcalfe's Wauwatosa Floral Studio",
+        "address": {
+          "Country": "US",
+          "Postcode": "53213",
+          "State": "WI",
+          "StreetAddress": "6700 W State St",
+          "Suburb": "Wauwatosa"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Metcalfe's West Towne",
+        "address": {
+          "Country": "US",
+          "Postcode": "53717",
+          "State": "WI",
+          "StreetAddress": "7455 Mineral Point Rd",
+          "Suburb": "Madison"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Metcalfe's West Towne Floral Studio",
+        "address": {
+          "Country": "US",
+          "Postcode": "53717",
+          "State": "WI",
+          "StreetAddress": "7455 Mineral Point Rd",
+          "Suburb": "Madison"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "IGA",
+    "retailerUrl": "https://www.myiga.com/online/albanyky/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/1180/summary",
+    "franchiseId": "1180",
+    "stores": [
+      {
+        "storeName": "Albany, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42602",
+          "State": "KY",
+          "StreetAddress": "120 Westview Shpg Ctr",
+          "Suburb": "Albany"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Barbourville, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "40906",
+          "State": "KY",
+          "StreetAddress": "193 Parkway Plaza",
+          "Suburb": "Barbourville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bloomington, IN",
+        "address": {
+          "Country": "US",
+          "Postcode": "47404",
+          "State": "IN",
+          "StreetAddress": "4681 W Richland Plaza",
+          "Suburb": "Bloomington"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Bridgeport, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35740",
+          "State": "AL",
+          "StreetAddress": "50468 HWY 277",
+          "Suburb": "Bridgeport"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Burkesville, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42717",
+          "State": "KY",
+          "StreetAddress": "260 Keen Street",
+          "Suburb": "Burkesville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Cookeville, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "38501",
+          "State": "TN",
+          "StreetAddress": "1010 North Washington Ave",
+          "Suburb": "Cookeville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Enon, OH",
+        "address": {
+          "Country": "US",
+          "Postcode": "45323",
+          "State": "OH",
+          "StreetAddress": "7581 Dayton Rd",
+          "Suburb": "Enon"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Evansville, IN - East Morgan Avenue",
+        "address": {
+          "Country": "US",
+          "Postcode": "47711",
+          "State": "IN",
+          "StreetAddress": "2220 E Morgan Ave",
+          "Suburb": "Evansville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Evansville, IN - First Avenue",
+        "address": {
+          "Country": "US",
+          "Postcode": "47710",
+          "State": "IN",
+          "StreetAddress": "4635 First Ave",
+          "Suburb": "Evansville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Glasgow, KY - Happy Valley Road",
+        "address": {
+          "Country": "US",
+          "Postcode": "42141",
+          "State": "KY",
+          "StreetAddress": "425 Happy Valley Rd",
+          "Suburb": "Glasgow"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Glasgow, KY - South L. Rogers",
+        "address": {
+          "Country": "US",
+          "Postcode": "42141",
+          "State": "KY",
+          "StreetAddress": "619 South L. Rogers Blvd",
+          "Suburb": "Glasgow"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Hardinsburg, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "40143",
+          "State": "KY",
+          "StreetAddress": "111 Old Hwy 60",
+          "Suburb": "Hardinsburg"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Hartford, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42347",
+          "State": "KY",
+          "StreetAddress": "1137 Hwy  231",
+          "Suburb": "Hartford"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Hodgenville, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42748",
+          "State": "KY",
+          "StreetAddress": "93 Shawnee Dr. Lincoln Plaza Shp. Ctr.",
+          "Suburb": "Hodgenville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Hometown Market - Hartselle, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35640",
+          "State": "AL",
+          "StreetAddress": "412 Sparkman St Nw",
+          "Suburb": "Hartselle"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Horse Cave, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42749",
+          "State": "KY",
+          "StreetAddress": "390 N Dixie St",
+          "Suburb": "Horse Cave"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Huntingburg, IN",
+        "address": {
+          "Country": "US",
+          "Postcode": "47542",
+          "State": "IN",
+          "StreetAddress": "312 East 12th St",
+          "Suburb": "Huntingburg"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Huntsville, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35810",
+          "State": "AL",
+          "StreetAddress": "3423 Pulaski Pike NW",
+          "Suburb": "Huntsville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "IGA Main",
+        "address": {
+          "Country": "US",
+          "Postcode": "42141",
+          "State": "KY",
+          "StreetAddress": "619 South L. Rogers Blvd",
+          "Suburb": "Glasgow"
+        },
+        "availabilityMode": "Test"
+      },
+      {
+        "storeName": "Irvington, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "40146",
+          "State": "KY",
+          "StreetAddress": "1105 Hwy 60 West",
+          "Suburb": "Irvington"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Jasper, IN",
+        "address": {
+          "Country": "US",
+          "Postcode": "47546",
+          "State": "IN",
+          "StreetAddress": "750 W 2nd St",
+          "Suburb": "Jasper"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Leitchfield, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42749",
+          "State": "KY",
+          "StreetAddress": "492 S Main St",
+          "Suburb": "Leitchfield"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Loogootee, IN",
+        "address": {
+          "Country": "US",
+          "Postcode": "47553",
+          "State": "IN",
+          "StreetAddress": "500 W Broadway St",
+          "Suburb": "Loogootee"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Morgantown, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42261",
+          "State": "KY",
+          "StreetAddress": "1242 S Main Street",
+          "Suburb": "Morgantown"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Mount Carmel, IL",
+        "address": {
+          "Country": "US",
+          "Postcode": "62863",
+          "State": "IL",
+          "StreetAddress": "1325 W 9th St",
+          "Suburb": "Mt Carmel"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Munfordville, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42765",
+          "State": "KY",
+          "StreetAddress": "1001 Main St",
+          "Suburb": "Munfordville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Nashville, IN",
+        "address": {
+          "Country": "US",
+          "Postcode": "47448",
+          "State": "IN",
+          "StreetAddress": "30 Hawthorne Dr",
+          "Suburb": "Nashville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "New Carlisle, OH",
+        "address": {
+          "Country": "US",
+          "Postcode": "45344",
+          "State": "OH",
+          "StreetAddress": "534 N Main St",
+          "Suburb": "New Carlisle"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "New Haven, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "40051",
+          "State": "KY",
+          "StreetAddress": "132 South Main St",
+          "Suburb": "New Haven"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Oakland City, IN",
+        "address": {
+          "Country": "US",
+          "Postcode": "47660",
+          "State": "IN",
+          "StreetAddress": "122 W. Morton Street",
+          "Suburb": "Oakland City"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Olney, IL",
+        "address": {
+          "Country": "US",
+          "Postcode": "62450",
+          "State": "IL",
+          "StreetAddress": "1313 E Main St",
+          "Suburb": "Olney"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Owensboro, KY - Carter Road",
+        "address": {
+          "Country": "US",
+          "Postcode": "42303",
+          "State": "KY",
+          "StreetAddress": "201 Carter Road",
+          "Suburb": "Owensboro"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Owensboro, KY - East 25th Street",
+        "address": {
+          "Country": "US",
+          "Postcode": "42301",
+          "State": "KY",
+          "StreetAddress": "900 East 25th Street",
+          "Suburb": "Owensboro"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Princeton, IN",
+        "address": {
+          "Country": "US",
+          "Postcode": "47670",
+          "State": "IN",
+          "StreetAddress": "2005 West Broadway",
+          "Suburb": "Princeton"
+        },
+        "availabilityMode": "Inactive"
+      },
+      {
+        "storeName": "Rockport, IN",
+        "address": {
+          "Country": "US",
+          "Postcode": "47635",
+          "State": "IN",
+          "StreetAddress": "509 Main St",
+          "Suburb": "Rockport"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Simpson's Supermarket - Evansville, IN",
+        "address": {
+          "Country": "US",
+          "Postcode": "47714",
+          "State": "IN",
+          "StreetAddress": "1365 Covert Avenue",
+          "Suburb": "Evansville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Somerset, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42501",
+          "State": "KY",
+          "StreetAddress": "470 East Highway 80",
+          "Suburb": "Somerset"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Upton, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42784",
+          "State": "KY",
+          "StreetAddress": "102 College St",
+          "Suburb": "Upton"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Wartburg, TN",
+        "address": {
+          "Country": "US",
+          "Postcode": "37887",
+          "State": "TN",
+          "StreetAddress": "1014 Main Street",
+          "Suburb": "Wartburg"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Whitesville, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42378",
+          "State": "KY",
+          "StreetAddress": "10035 Hwy 54 E",
+          "Suburb": "Whitesville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Williamsburg, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "40769",
+          "State": "KY",
+          "StreetAddress": "25 N Hwy 25 W",
+          "Suburb": "Williamsburg"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Wise, VA",
+        "address": {
+          "Country": "US",
+          "Postcode": "24293",
+          "State": "VA",
+          "StreetAddress": "305 Church Street",
+          "Suburb": "Wise"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "X Columbia, KY",
+        "address": {
+          "Country": "US",
+          "Postcode": "42728",
+          "State": "KY",
+          "StreetAddress": "900 Jamestown St",
+          "Suburb": "Columbia"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "X Glasgow, KY - East Main Street",
+        "address": {
+          "Country": "US",
+          "Postcode": "42141",
+          "State": "KY",
+          "StreetAddress": "742 East Main St",
+          "Suburb": "Glasgow"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "X Hometown Market - Decatur, AL",
+        "address": {
+          "Country": "US",
+          "Postcode": "35601",
+          "State": "AL",
+          "StreetAddress": "1820 6th Ave, Ste T",
+          "Suburb": "Decatur"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  },
+  {
+    "retailerName": "Cox Farms Market",
+    "retailerUrl": "https://shop.coxfarmsmarket.com/online/farmersbranch/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/314/summary",
+    "franchiseId": "314",
+    "stores": [
+      {
+        "storeName": "Duncanville",
+        "address": {
+          "Country": "US",
+          "Postcode": "75137",
+          "State": "TX",
+          "StreetAddress": "1026 South Main St.",
+          "Suburb": "Duncanville"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "Farmers Branch",
+        "address": {
+          "Country": "US",
+          "Postcode": "75234",
+          "State": "TX",
+          "StreetAddress": "13091 Bee St",
+          "Suburb": "Farmers Branch"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "West Dallas",
+        "address": {
+          "Country": "US",
+          "Postcode": "75208",
+          "State": "TX",
+          "StreetAddress": "778 Fort Worth Ave",
+          "Suburb": "Dallas"
+        },
+        "availabilityMode": "Public"
+      },
+      {
+        "storeName": "XX Test Store",
+        "address": {
+          "Country": "US",
+          "Postcode": "75208",
+          "State": "TX",
+          "StreetAddress": "778 Fort Worth Ave",
+          "Suburb": "Dallas"
+        },
+        "availabilityMode": "Test"
+      }
+    ]
+  },
+  {
+    "retailerName": "Food Rite",
+    "retailerUrl": "https://shop.myfoodrite.com/online/foodritedyer/home",
+    "summaryUrl": "https://production-us-1.noq-servers.net/api/v1/application/franchises/295/summary",
+    "franchiseId": "295",
+    "stores": [
+      {
+        "storeName": "Food Rite Dyer",
+        "address": {
+          "Country": "US",
+          "Postcode": "38330",
+          "State": "TN",
+          "StreetAddress": "705 South Main Street",
+          "Suburb": "Dyer"
+        },
+        "availabilityMode": "Public"
+      }
+    ]
+  }
+]
