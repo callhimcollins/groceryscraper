@@ -189,7 +189,7 @@ async function main() {
   }
 
   await fs.writeFile(
-    "research/egrowcery-retailers.json",
+    "research/findings.json",
     JSON.stringify(output,null,2)
   );
 
